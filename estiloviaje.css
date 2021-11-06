@@ -1,0 +1,32 @@
+*{
+	background-color: #FFE4E1;
+}
+
+h1{
+	font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #E9967A;
+
+}
+
+.texto{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #E9967A;
+
+}
+ 
+
+ .fotos{
+ 	margin-left: 23%;
+ }
+
+ header{
+ 	color: lightblue;
+ }
+
+ #mapa{
+ 	margin-left:30%;
+ }
